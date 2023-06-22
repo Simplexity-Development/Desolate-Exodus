@@ -1,0 +1,13 @@
+name = "SimpleTech for Fabric"
+filename = "simpletech-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zAt87SKP/versions/eGygm7fw/simpletech-2.3.0.jar"
+hash-format = "sha1"
+hash = "6a6e1a29f599184ca80aeae67781d4cd35966219"
+
+[update]
+[update.modrinth]
+mod-id = "zAt87SKP"
+version = "eGygm7fw"

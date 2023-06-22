@@ -1,0 +1,211 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "69bc79801ac468020ff1bf3fd315d7d4d5cf15727a75c0d1b12a980a6e960c94"
+metafile = true
+
+[[files]]
+file = "mods/additional-lanterns.pw.toml"
+hash = "a8bb7119e936b06f1e1e1a27a4aa721c01514c304775eeea8961f44abbf94d2c"
+metafile = true
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "0aa7e85b6c0cf8cc425a37350306f62b6dd119b3f384132ff3aa2e1141969251"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "803add80bc2ead224e1795195859e2721d50dd3840d7ce35e592371a87e14624"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "6b10aec48e791284efc74abac03863072971283d2622131fbb93f527cf47ebf4"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
+metafile = true
+
+[[files]]
+file = "mods/artisanat.pw.toml"
+hash = "c3f1b180bff0edf7287845b2a438762bb71e019e5bd30ef9cbf4a713722e8a18"
+metafile = true
+
+[[files]]
+file = "mods/auto-config-updated-api.pw.toml"
+hash = "1ae8dcbdfa0bd670013aa6aa1d0471f628432293fb8085c403ddf0dac1c59624"
+metafile = true
+
+[[files]]
+file = "mods/blockus.pw.toml"
+hash = "ef09a3e98ed8b5ded12bb5b42b202d9bd0ca6ffcab941316f495472ed3414a9b"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
+metafile = true
+
+[[files]]
+file = "mods/brrp.pw.toml"
+hash = "fbc36b6d503762964b80bbcbabb1e103891066de3107eaa8e2bdded508a33b04"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/clutter.pw.toml"
+hash = "6bc69f58076651ee7496db935ed20dbb0fa7215c7c6d483b5ce29ff2d6f714fb"
+metafile = true
+
+[[files]]
+file = "mods/dawn.pw.toml"
+hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
+metafile = true
+
+[[files]]
+file = "mods/dustrial-decor.pw.toml"
+hash = "321d91a48c60079500f68ab2741d955f5dedab4d36c904ad8f2c21dc4531682e"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "0692059aa9d74400804eaa6030158a251296b280b91a82eb55757c2f2ccf8972"
+metafile = true
+
+[[files]]
+file = "mods/emi_farmersdelight.pw.toml"
+hash = "286ee406d092f5763327f12f44ba10a581bb369212ad5080d6fa0152783a24d2"
+metafile = true
+
+[[files]]
+file = "mods/emoji-type.pw.toml"
+hash = "7a6a192d8b94f9363b7a741b6758316437c56598ee0156c479949e71b6c80f7c"
+metafile = true
+
+[[files]]
+file = "mods/extractinator.pw.toml"
+hash = "1b0701e0c3cf2ca2b90923eebabaa514906a066db8335b45b4e7dca2792db785"
+metafile = true
+
+[[files]]
+file = "mods/extshape.pw.toml"
+hash = "6cb72324cadadea2cd94e6cd635e25a8dab8336c20c92b4450a8ed00afe8e471"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "03f15eabed281545a6e69de5d6eb5880cc02d09b55d1632346c4ac0f43d0e2cb"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "caececdea119fdfeb079b1e6fb3d470cf9be0a2917bb87882548ae3d3876151c"
+metafile = true
+
+[[files]]
+file = "mods/item-collectors.pw.toml"
+hash = "a0d780bca03d08ac3cff20c70662fae79aac248897da811455cc84ab41fa54bb"
+metafile = true
+
+[[files]]
+file = "mods/led.pw.toml"
+hash = "c922a4dff188cb5be54bb1fc11d348ecc7ab66d7f18924038f6d2657e2ec73b6"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "cf034e6e6a75048d46a0672929c1c71cdf36c0c503d0bd98997737b407e05d6d"
+metafile = true
+
+[[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "57b37ebbaf8cd5720931941ee65f65838498795145c95df00a941e0b9921e4c6"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "216a4488198a01ba61cd309403811d681c133b8993b10018cb18cd5534a2d480"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "e17957ecd2371f4eb4808f87a462dd5995d50ed2932eedeeb80b2ca67930e022"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "b778ac371f5aa5d391386d4dcfabd3b1d87a01f99bd9fe0c9c29d74758cfe2c0"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "625430f4374524d197165fa6d41afad3dc65a60b16ab87298cba3d47581a5485"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
+metafile = true
+
+[[files]]
+file = "mods/simpletech.pw.toml"
+hash = "347b4423fe7371af1914e3e6522582f8d7311a9b37a89b6ca99cf97679e41468"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "c89de9767f4e0e6fbafb8ed25c2fa71070ec327f84e7f3c28c6c14a33b495ec7"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "9786ed7a4a961fbf6035899628390b289cef33365588d3550ab147cba7fc8d39"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "73a8ef7a1d8a156d712f138a689187e73619127497b9e6666510ce30980d56aa"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "9e86144c0543f6bcfa735d71451e93d3b101c94bd7956079c080e9e2a4f90f60"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ae2wtlib-ae2-style-crafting-terminal.pw.toml"
+hash = "60efb5ad48e45f2ee8ed0c604803bb27a467d8fa55c4351a355221bb697408b1"
+metafile = true
