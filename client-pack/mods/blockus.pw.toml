@@ -1,0 +1,14 @@
+name = "Blockus"
+filename = "blockus-2.7.2+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/zFiY2Go0/versions/EclPkOFv/blockus-2.7.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "d01ca271eee4de47a77aaa737ae74363d3f8100c863b034fa4e0987c490a2f03817f7ec46700396f81be529fc2736f11b88a129adc02c01dd3069249485db932"
+
+[update]
+[update.modrinth]
+mod-id = "zFiY2Go0"
+version = "EclPkOFv"

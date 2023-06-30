@@ -1,0 +1,14 @@
+name = "Clutter"
+filename = "clutter-1.20.1-0.3.8.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/KZAmykow/versions/dooZIIEZ/clutter-1.20.1-0.3.8.jar"
+hash-format = "sha512"
+hash = "eecf8e563ecd0cd34bd7b0c8eb7a4bd3c1e862d1777084621003a40b3fe00978ec17d8e7d816299208c75cc98cf9e282f3d2a381cede454a66f65b473fa82aee"
+
+[update]
+[update.modrinth]
+mod-id = "KZAmykow"
+version = "dooZIIEZ"

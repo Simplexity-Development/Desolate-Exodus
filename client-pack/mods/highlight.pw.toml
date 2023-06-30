@@ -1,0 +1,14 @@
+name = "Highlight"
+filename = "highlight-fabric-1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Vz96hXMh/versions/9QHyP1T9/highlight-fabric-1.20.jar"
+hash-format = "sha512"
+hash = "79231d5c9317877e23234f5e399054e793387c22d9e32b3eec9e35e0166b2fcc3bfedbe53b1a35dacca791279175d472ef511f522f8b7734cb2be7bc289330f8"
+
+[update]
+[update.modrinth]
+mod-id = "Vz96hXMh"
+version = "9QHyP1T9"

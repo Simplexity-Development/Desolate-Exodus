@@ -1,0 +1,14 @@
+name = "Diggus Maximus"
+filename = "diggusmaximus-1.5.9-1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/S4LrRnI7/versions/ygAyNaax/diggusmaximus-1.5.9-1.20.jar"
+hash-format = "sha512"
+hash = "b9af35e04f582d72a37368faa2b92de2eff68ef114e3225a187e5f299d75b7fb27c8be27f164bd095231d10a0cf4b7af544e3879764e5f13ae079dfce927e929"
+
+[update]
+[update.modrinth]
+mod-id = "S4LrRnI7"
+version = "ygAyNaax"

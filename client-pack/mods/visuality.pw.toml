@@ -1,0 +1,14 @@
+name = "Visuality"
+filename = "visuality-0.7.0+1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/rI0hvYcd/versions/BipSJ05N/visuality-0.7.0%2B1.20.jar"
+hash-format = "sha512"
+hash = "3e58ee22acc49b14bffe58271f78f9ea795e5691880c82888c16082a581f0f668b21ea10f1d7973bdc147d90ddec98d265fcace9fe6f15a5d689b5c2771e6679"
+
+[update]
+[update.modrinth]
+mod-id = "rI0hvYcd"
+version = "BipSJ05N"

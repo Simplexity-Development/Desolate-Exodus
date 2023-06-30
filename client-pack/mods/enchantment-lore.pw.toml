@@ -1,0 +1,14 @@
+name = "Enchantment Lore"
+filename = "enchantment-lore-1.3.2+MC1.20-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/YHdR6hMt/versions/M5LOhlR4/enchantment-lore-1.3.2%2BMC1.20-1.20.1.jar"
+hash-format = "sha512"
+hash = "c30d1c5669209e2ed07e5b4383ebf8fd5440489fde7511299ded8dd40d1883ded27d5feb26b4d45b23fa58c7822613ec89bb4c5039e3903ebe8db8bcce231a34"
+
+[update]
+[update.modrinth]
+mod-id = "YHdR6hMt"
+version = "M5LOhlR4"

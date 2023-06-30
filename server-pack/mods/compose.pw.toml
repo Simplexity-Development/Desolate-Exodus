@@ -1,0 +1,14 @@
+name = "Compose"
+filename = "compose-1.3.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/iXycodhr/versions/69JzizGp/compose-1.3.1.jar"
+hash-format = "sha512"
+hash = "d6f1b3fa94513af7e08b6434d62270d0c07d7fca50e1924b03525f4a6a4fe206d1c74d6dd4a514cfc9f044417787349d69028a572d81ce2e99f4a25665ae9860"
+
+[update]
+[update.modrinth]
+mod-id = "iXycodhr"
+version = "69JzizGp"

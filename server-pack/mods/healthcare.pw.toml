@@ -1,0 +1,14 @@
+name = "HealthCare"
+filename = "healthcare-1.3.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/NNqujQWr/versions/JWsaM8nn/healthcare-1.3.1.jar"
+hash-format = "sha512"
+hash = "da38dae5497cbf9c25adeeac2643c3922055941cd802894d39b3b7c32506e919a146c2978c10d5127291f634236fcb2406b1615fada0f8d8b9dae35608437af7"
+
+[update]
+[update.modrinth]
+mod-id = "NNqujQWr"
+version = "JWsaM8nn"

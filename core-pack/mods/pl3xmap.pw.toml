@@ -1,0 +1,14 @@
+name = "Pl3xMap"
+filename = "Pl3xMap-1.20.1-455.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/YMXhf1UJ/versions/cqBq18ST/Pl3xMap-1.20.1-455.jar"
+hash-format = "sha512"
+hash = "506be9a6654f784e7038e12928cd8df4ddc53983b47617d92f14d8c286cc72abecff3b947b4c32d66cf9c32b21446a310be6ca0e1167bf5467307ed3ee97ae6e"
+
+[update]
+[update.modrinth]
+mod-id = "YMXhf1UJ"
+version = "cqBq18ST"

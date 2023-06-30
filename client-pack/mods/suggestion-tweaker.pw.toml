@@ -1,0 +1,14 @@
+name = "Suggestion Tweaker"
+filename = "suggestion-tweaker-1.20-1.4.2-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/MBLj38R0/versions/AbdvRnZx/suggestion-tweaker-1.20-1.4.2-fabric.jar"
+hash-format = "sha512"
+hash = "8e51de244bc2e0bd511cd400e05bb85c06494f039745837dc70e51112a45771963940e47db810472b251b1fa458b135f630368854670fdb35d164eb26dea2f44"
+
+[update]
+[update.modrinth]
+mod-id = "MBLj38R0"
+version = "AbdvRnZx"

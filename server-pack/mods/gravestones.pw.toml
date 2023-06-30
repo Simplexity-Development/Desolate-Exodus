@@ -1,0 +1,14 @@
+name = "Gravestones"
+filename = "gravestones-v1.15.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ssUbhMkL/versions/Uw9uAQaY/gravestones-v1.15.jar"
+hash-format = "sha512"
+hash = "d15c6db9d9154464f335f01ae7f8ce8d2473251ed5a6c094a2f6e59ba778de6dfdefd7ee6a08d5908b826e37028de8edc3745a7af19ee00b59971f33bdfee2c5"
+
+[update]
+[update.modrinth]
+mod-id = "ssUbhMkL"
+version = "Uw9uAQaY"

@@ -1,0 +1,14 @@
+name = "Ksyxis"
+filename = "Ksyxis-1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/2ecVyZ49/versions/1.1/Ksyxis-1.1.jar"
+hash-format = "sha512"
+hash = "dc68280c02c1eca07635ab399a8ab2ec599b41c2d6d5eb14e9cc9f30f1c7e2d8c85f1fba306c65f6aef2962ad571a4f10f7d8250dfb37da5575efd8897167788"
+
+[update]
+[update.modrinth]
+mod-id = "2ecVyZ49"
+version = "uEeD9JQx"

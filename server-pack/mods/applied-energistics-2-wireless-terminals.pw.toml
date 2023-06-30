@@ -1,0 +1,14 @@
+name = "Applied Energistics 2 Wireless Terminals"
+filename = "ae2wtlib-15.0.1-beta.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/pNabrMMw/versions/WTEwHwE4/ae2wtlib-15.0.1-beta.jar"
+hash-format = "sha512"
+hash = "0cb543738ec87f006b62128c49d126f56980a954985741ea81a3fdfc46b5baf94d6558b5dd8866ae48242408d8059379996a875c9944aff4a12ecd19881f523c"
+
+[update]
+[update.modrinth]
+mod-id = "pNabrMMw"
+version = "WTEwHwE4"

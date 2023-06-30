@@ -1,0 +1,14 @@
+name = "Pl3xMap"
+filename = "Pl3xMap-1.20.1-454.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/YMXhf1UJ/versions/f3gRTpcr/Pl3xMap-1.20.1-454.jar"
+hash-format = "sha512"
+hash = "45e55c39612b7139933a81bac1e675b7fc611ef4be8bf5de416f25e24743ca782f206d53931c6d8d9628120cc7baea2a615b669d7c2968994ac7699e53d6fad7"
+
+[update]
+[update.modrinth]
+mod-id = "YMXhf1UJ"
+version = "f3gRTpcr"

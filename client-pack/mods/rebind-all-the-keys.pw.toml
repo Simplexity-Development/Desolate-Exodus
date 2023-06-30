@@ -1,0 +1,14 @@
+name = "RebindAllTheKeys"
+filename = "rebind-all-the-keys-1.2.1+1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/TpKqzzMu/versions/DwbZNCai/rebind-all-the-keys-1.2.1%2B1.20.jar"
+hash-format = "sha512"
+hash = "c7c09835b80e1e56fd04b6723bf5e5b231b2e936d3860146a11ba17f0dd3d8518ff5227336a11b88719f5b70c0595a1f003e65273454af13558e6a93c69b111c"
+
+[update]
+[update.modrinth]
+mod-id = "TpKqzzMu"
+version = "DwbZNCai"

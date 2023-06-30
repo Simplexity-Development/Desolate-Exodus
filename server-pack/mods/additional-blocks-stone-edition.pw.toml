@@ -1,0 +1,14 @@
+name = "Additional Blocks: Stone Edition"
+filename = "abstoneedition-2.1.1-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/FSzRTvY9/versions/6SMArDuK/abstoneedition-2.1.1-fabric-mc1.20.jar"
+hash-format = "sha512"
+hash = "24a849647d9cfe6e18296b2f9afbb14ac27238567c9ae5c39313950436f3bdaf1e6922b16dc752dbbfcc9d1f35198bf269f3a6281cf59291729f3b6b1c65c293"
+
+[update]
+[update.modrinth]
+mod-id = "FSzRTvY9"
+version = "6SMArDuK"

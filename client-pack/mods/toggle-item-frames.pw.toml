@@ -1,0 +1,14 @@
+name = "Toggle Item Frames"
+filename = "toggleableitemframes-2.1.2-1.20.x.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/sv9FlLct/versions/3DPuGeEn/toggleableitemframes-2.1.2-1.20.x.jar"
+hash-format = "sha512"
+hash = "6ee728561de0e47d466aecd242440bad1c616000105ea17ff0d03925b13723fa04413be2a63bf7e961c03b97857aa0411c84f5a9c9a0def8fcaeb4393a6c6641"
+
+[update]
+[update.modrinth]
+mod-id = "sv9FlLct"
+version = "3DPuGeEn"

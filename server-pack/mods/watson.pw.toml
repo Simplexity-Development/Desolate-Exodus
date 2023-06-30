@@ -1,0 +1,14 @@
+name = "Watson"
+filename = "watson-fabric-1.15.0+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/xZxRYS0M/versions/IeovgcT2/watson-fabric-1.15.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "dfe11c9ebc512627281a3dbe53dfbb7cfed5a1242c13f912fa12aa1ce9cbcf752918c5169de3a4100241961405d907e53e82095561ad0cd7c567978ab110024d"
+
+[update]
+[update.modrinth]
+mod-id = "xZxRYS0M"
+version = "IeovgcT2"

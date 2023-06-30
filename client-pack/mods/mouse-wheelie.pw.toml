@@ -1,0 +1,14 @@
+name = "Mouse Wheelie"
+filename = "mousewheelie-1.11.1+mc1.20-pre2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/cu12faXh/mousewheelie-1.11.1%2Bmc1.20-pre2.jar"
+hash-format = "sha512"
+hash = "f72635ff33e579f4d3943f30f55831b5320ea18c740743102fc46599ecd415027c5b68d004fb9a42a7adbbedf21da0b809618c39870e664f0ecb5da67724f8f2"
+
+[update]
+[update.modrinth]
+mod-id = "u5Ic2U1u"
+version = "cu12faXh"

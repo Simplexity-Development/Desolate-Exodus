@@ -1,0 +1,16 @@
+name = "Desolate Exodus"
+author = "Rhythmic"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e6656b415d7ff92df1301a0f2095be77e10c84aa7687145703eeb1b981984003"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20", "1.20.1"]

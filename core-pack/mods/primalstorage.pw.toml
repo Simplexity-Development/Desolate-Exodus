@@ -1,0 +1,14 @@
+name = "PrimalStorage"
+filename = "primalstorage-1.3-1.20-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/l6bP7aHn/versions/tNygAlHQ/primalstorage-1.3-1.20-fabric.jar"
+hash-format = "sha512"
+hash = "a3d52b5a832f395f8b32f6df1b2c3d24800c400bb4d07015d931ae23c0b437d7654e195ec94e0785bcde526084ba2ef9c1a5395026f2f1ea6fac5999f66d6499"
+
+[update]
+[update.modrinth]
+mod-id = "l6bP7aHn"
+version = "tNygAlHQ"
